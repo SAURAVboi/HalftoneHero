@@ -19,7 +19,7 @@ This is a fun, live image filter demo that lets you apply **pure SVG halftone ef
 
 ## 🔗 Live Preview
 
-[Try it live](https://your-demo-url-here.com)  
+[Try it live]https://codepen.io/codemun/pen/xbGZPOW)  
 *(Add your hosted version or demo link here)*
 
 ---
